@@ -1,0 +1,21 @@
+{
+    "name":"ayu-mirage",
+    "displayName":"%displayName%",
+    "description":"%description%",
+    "version":"1.0.0",
+    "publisher":"vscode",
+    "license":"MIT",
+    "engines":{"vscode":"*"},
+    "categories":["Themes"],
+    "contributes":{
+        "themes":[
+            {
+                "id":"ayu-mirage",
+                "label":"%themeLabel%",
+                "uiTheme":"vs-dark",
+                "path":"./themes/ayu-mirage.json"
+            }
+        ]
+    }
+}
+

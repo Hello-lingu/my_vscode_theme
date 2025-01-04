@@ -1,0 +1,117 @@
+{
+    "name": "ayu mirage",
+    "type": "dark",
+    "colors": {
+        "editor.background": "#1f2430",
+        "editorBracketHighlight.foreground1": "#383e4c",
+        "editor.lineHighlightBackground": "#191e2a",
+        "editorLineNumber.foreground": "#606979",
+        "editorGutter.lineNumbersForeground": "#444b59",
+        "editor.selectionBackground": "#33415e",
+        "editorBracketHighlight.foreground2": "#252c3e",
+        "editorBracketHighlight.foreground3": "#222733",
+        "editorBracketHighlight.foreground4": "#383f4c",
+        "editorBracketHighlight.foreground5": "#444b59",
+        "editorBracketHighlight.foreground6": "#73d0ff",
+        "editorBracketHighlight.foreground7": "#f28779",
+        "editorBracketHighlight.foreground8": "#d4bfff",
+        "editorBracketHighlight.foreground9": "#ffe6b3",
+        "editorBracketHighlight.foreground10": "#ff3333",
+        "editorBracketHighlight.foreground11": "#95e6cb",
+        "editorBracketHighlight.foreground12": "#bae67e",
+        "editorBracketHighlight.foreground13": "#77a8d9",
+        "editorBracketHighlight.foreground14": "#7f553b",
+        "editorBracketHighlight.foreground15": "#a6cc70",
+        "editorBracketHighlight.foreground16": "#606979",
+        "editorBracketHighlight.foreground17": "#f27983",
+        "editorBracketHighlight.foreground18": "#303642",
+        "editorBracketHighlight.foreground19": "#1d222e",
+        "editorBracketHighlight.foreground20": "#596171",
+        "editorBracketHighlight.foreground21": "#434957",
+        "editorBracketHighlight.foreground22": "#232834",
+        "editorBracketHighlight.foreground23": "#2a4254"
+    },
+    "tokenColors": [
+        {
+            "scope": "comment",
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#5c6773"
+            }
+        },
+        {
+            "scope": "keyword",
+            "settings": {
+                "fontStyle": "bold",
+                "foreground": "#ffa759"
+            }
+        },
+        {
+            "scope": "string",
+            "settings": {
+                "foreground": "#bae67e"
+            }
+        },
+        {
+            "scope": "constant.numeric",
+            "settings": {
+                "foreground": "#ffcc66"
+            }
+        },
+        {
+            "scope": "constant.language",
+            "settings": {
+                "foreground": "#d4bfff"
+            }
+        },
+        {
+            "scope": "constant.character",
+            "settings": {
+                "foreground": "#bae67e"
+            }
+        },
+        {
+            "scope": "variable",
+            "settings": {
+                "foreground": "#5ccfe6"
+            }
+        },
+        {
+            "scope": "function",
+            "settings": {
+                "foreground": "#ffd580"
+            }
+        },
+        {
+            "scope": "support.function",
+            "settings": {
+                "foreground": "#8c67e6"
+            }
+        },
+        {
+            "scope": "entity.name.tag",
+            "settings": {
+                "foreground": "#5ccfe6"
+            }
+        },
+        {
+            "scope": "entity.other.attribute-name",
+            "settings": {
+                "foreground": "#ffd580"
+            }
+        },
+        {
+            "scope": "storage.type",
+            "setttings": {
+                "foreground": "#ffa759"
+            }
+        },
+        {
+            "scope": "invalid",
+            "settings": {
+                "fontStyle": "underline",
+                "foreground": "#ff3333"
+            }
+        }
+    ]
+}
